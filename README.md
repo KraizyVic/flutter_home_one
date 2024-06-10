@@ -1,6 +1,16 @@
 # homeone
 
-A new Flutter project.
+A flutter project for controlling home devices 
+
+======== N O T E ========
+
+This is just The Ui and basic functionality like :
+  - Going to rooms
+  - Updating the room page to the currently indexed room
+  - Changing Themes from Light to dark and vice versa
+  - Changing device tile color when switch is toggled
+  - And dynamically adjusting the selected tile colour for specified themes
+  - Memory management using HIVE
 
 ## Getting Started
 
