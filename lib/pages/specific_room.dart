@@ -1,12 +1,10 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
-import 'package:homeone/linear_indicator.dart';
 import 'package:homeone/util/constants.dart';
 import 'package:homeone/util/specific_room_device_Tile.dart';
 import 'package:ming_cute_icons/ming_cute_icons.dart';
 
 import '../models/room.dart';
+import '../util/linear_indicator.dart';
 class SpecificRoom extends StatefulWidget {
   final Room specificRoom;
   const SpecificRoom({
